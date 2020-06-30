@@ -1,0 +1,7 @@
+1. Download & Install Python https://www.python.org/downloads/windows/
+2. Un Zip  the folder which we have shared with you.
+3. Now open this folder in command prompt
+4. Type following command to execute the program
+5. python3 ExcelReader.py
+6. Now you can open & edit the excel file which is in  the folder can save it 
+7. It should reflect on web once you saved
